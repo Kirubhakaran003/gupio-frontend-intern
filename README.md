@@ -20,8 +20,6 @@ https://gupio-dashboard.netlify.app/
 - Favourites page to manage liked products
 - Responsive layout with Bootstrap
 
-## Test Coverage: Basic unit testing will be added as part of future improvements.
-
 ##  Setup Instructions
 ```bash
 git clone https://github.com/Kirubhakaran003/gupio-frontend-intern
